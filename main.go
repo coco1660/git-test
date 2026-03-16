@@ -22,8 +22,8 @@ func main() {
 	s3 := "commit4"
 	fmt.Printf("The third commit, %s!\n", s3)
 
-	s4 := "commit5"
-	fmt.Printf("The third commit, %s!\n", s4)
+	s4_update := "commit5"
+	fmt.Printf("The third commit, %s!\n", s4_update)
 
 	s5 := "commit6"
 	fmt.Printf("The third update commit, %s!\n", s5)
