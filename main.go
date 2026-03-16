@@ -26,7 +26,7 @@ func main() {
 	fmt.Printf("The third commit, %s!\n", s4)
 
 	s5 := "commit6"
-	fmt.Printf("The third commit, %s!\n", s5)
+	fmt.Printf("The third update commit, %s!\n", s5)
 
 	s6 := "commit7"
 	fmt.Printf("test branch: the first commit, %s!\n", s6)
